@@ -29,7 +29,7 @@
 
 <div align="center">
   
-[![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/aishwaryash775/aishwarya-shinde-resume/blob/main/AishwaryaResumeComps2026.pdf)
+[![Resume](https://img.shields.io/badge/View-Resume-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/aishwaryash775/aishwarya-shinde-resume/blob/main/Comps2026.pdf)
 
 </div>
 
